@@ -3,6 +3,16 @@
 ## Enhancing Agent 
 [arXiv 23] **Large Language Models Empowered Agent-based Modeling and Simulation: A Survey and Perspectives** [[Paper]](https://arxiv.org/pdf/2312.11970v1)</br>
 
+## Knowledgeable Agent:
+[1] [Teaching models to express their uncertainty in words](https://arxiv.org/pdf/2205.14334)</br>
+[2] [Measuring and Modifying Factual Knowledge in Large Language Models](https://arxiv.org/pdf/2306.06264)</br>
+[3] [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221)</br>
+[4] [Investigating selective prediction approaches across several tasks in iid, ood, and adversarial settings.](https://aclanthology.org/2022.findings-acl.158/)</br>
+[5] [Language models as knowledge bases?](https://arxiv.org/abs/1909.01066)</br>
+[6] [A review on language models as knowledge bases](https://arxiv.org/abs/2204.06031)</br>
+[7] [FAMILIARITY-AWARE EVIDENCE COMPRESSION FOR RETRIEVAL AUGMENTED GENERATIO]()</br>
+[8] Knowledgeable or educated guess? Revisiting language models as knowledge bases</br>
+
 ## Enhancing Agent Collaboration
 [arXiv 24] **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View** [[Paper]](https://arxiv.org/pdf/2310.02124) </br>
 [arXiv 24] **Scaling Large-Language-Model-based Multi-Agent Collaboration** [[Paper]](https://arxiv.org/pdf/2406.07155)</br>
