@@ -26,3 +26,4 @@
 [arXiv 24] **LLMs generate structurally realistic social networks but overestimate political homophily** [[Link]](https://arxiv.org/abs/2408.16629) </br>
 [WWW 05] **Improving Recommendation Lists Through Topic Diversification** [[Link]](https://dl.acm.org/doi/pdf/10.1145/1060745.1060754?casa_token=RekBQ_qRpgwAAAAA:CxI_RDtfSDXFV3Nzyu_NTcYFS_6Gu-PhBqjygqQywG0OF6-yuEHsrhe1-AiRbXdR8tnwNHw5D9Iw) </br>
 [] **Result Diversification in Search and Recommendation: A Survey*** [[Link]](https://arxiv.org/pdf/2212.14464)
+**A COLLABORATIVE MULTI-AGENT APPROACH TO RETRIEVAL-AUGMENTED GENERATION ACROSS DIVERSE DATA SOURCES** [[Link]](https://arxiv.org/pdf/2412.05838)
